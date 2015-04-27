@@ -17,3 +17,4 @@ $(".gallery ul li a").click(function() {
         scrollTop: parseInt($("#top").offset().top)
     }, 400);
 });
+$(function)
